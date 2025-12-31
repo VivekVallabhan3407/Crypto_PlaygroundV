@@ -2,6 +2,18 @@
 The aim of this project is to provide a simple, interactive tool for learning basic encryption concepts such as AES, RSA, and Base64.
 Users can encrypt and decrypt text directly in the browser without sending any data to a server.
 
+## 🚀 Getting Started (Local Setup)
+
+```bash
+git clone https://github.com/your-username/cybercrime-awareness-guide.git
+cd cybercrime-awareness-guide
+npm install
+npm run dev
+```
+
+The site will be available at http://localhost:3000
+
+
 ## Disclaimer
 This project is for educational purposes only.
 All encryption and decryption happens locally in the browser.
