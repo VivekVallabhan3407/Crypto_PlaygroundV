@@ -5,8 +5,8 @@ Users can encrypt and decrypt text directly in the browser without sending any d
 ## 🚀 Getting Started (Local Setup)
 
 ```bash
-git clone https://github.com/your-username/cybercrime-awareness-guide.git
-cd cybercrime-awareness-guide
+git clone https://github.com/VivekVallabhan3407/Crypto_PlaygroundV.git
+cd Crypto_PlaygroundV
 npm install
 npm run dev
 ```
